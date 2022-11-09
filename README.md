@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @killersquid1440
-- 👀 I’m interested in GoLang and Linux stuff
-- 🌱 I’m currently learning GoLang 
+I post random projects no one will see. 
 
 <!---
 killersquid1440/killersquid1440 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
