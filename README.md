@@ -1,4 +1,4 @@
-I make random projects all stores in private repositories 😭
+I make random projects all stored in private repositories 😭
 
 <!---
 killersquid1440/killersquid1440 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
